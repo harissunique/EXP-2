@@ -75,7 +75,8 @@ Teaches decentralized fundraising.
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 # Output:
-<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/8eae9e4f-0302-45eb-86f9-385e987b8f92" />
+<img width="1919" height="829" alt="1" src="https://github.com/user-attachments/assets/c44dac3b-5e15-4128-af35-9ded34ec986d" />
+
 
 # RESULT: 
 thus the code is deployed and output is verified.
